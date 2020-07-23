@@ -11,3 +11,4 @@
 
 
 ![Anshu github stats](https://github-readme-stats.vercel.app/api?username=Sinha199&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinha199&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
