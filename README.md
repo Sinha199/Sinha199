@@ -7,3 +7,7 @@
 - 📫 How to reach me: [:monocle_face:LinkedIn](https://www.linkedin.com/in/anshu1998/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Love Poetry :yellow_heart:
+
+
+
+![Anshu github stats](https://github-readme-stats.vercel.app/api?username=Sinha199&show_icons=true&theme=gruvbox)
