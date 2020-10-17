@@ -10,5 +10,6 @@
 
 
 
-![Anshu github stats](https://github-readme-stats.vercel.app/api?username=Sinha199&show_icons=true&theme=gruvbox)
+![Profile views](https://gpvc.arturio.dev/Sinha199)
 
+![Anshu github stats](https://github-readme-stats.vercel.app/api?username=Sinha199&show_icons=true&theme=gruvbox)
