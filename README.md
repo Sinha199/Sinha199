@@ -1,7 +1,6 @@
 ### Hola fellas :nerd_face:
 
-- 🔭 I’m currently working on blockchain application and cryptocurrency. 
-- 🌱 I’m currently learning flutter
+- 🔭 I’m currently exploring NLP and Quantum Computing.
 - 👯 I’m looking to collaborate on software development projects
 - 💬 Ask me about machine learning,deep learning,blockchain and open source
 - 😄 Pronouns: She/her
