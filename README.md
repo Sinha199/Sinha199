@@ -1,6 +1,6 @@
 <h2> Hi, I'm Anshu! <img src="https://media.giphy.com/media/Pm4HpXI62FxF4jfM60/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="230">
 
 - 🔭 I’m currently exploring NLP and Quantum Computing.
 - 👯 I’m looking to collaborate on software development projects
