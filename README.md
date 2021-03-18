@@ -22,9 +22,6 @@
 <a href="https://www.linkedin.com/in/anshu1998/">
   <img align="left" alt="Anshu Sinha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/ether_next/">
-  <img align="left" alt="Anshu Sinha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 <br />
 <br />
