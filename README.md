@@ -14,10 +14,10 @@
 
 ### Let's connect
 <a href="https://twitter.com/Sinha_199">
-  <img align="left" alt="Anshu Sinha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Anshu Sinha | Twitter" width="45px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-icon-circle-png-logo-8.png"/>
 </a>
 <a href="https://www.linkedin.com/in/anshu1998/">
-  <img align="left" alt="Anshu Sinha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Anshu Sinha" width="45px" src="https://www.freepnglogos.com/uploads/linkedin-logo-hd-png-3.png" />
 </a>
 
 <br />
