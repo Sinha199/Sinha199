@@ -1,4 +1,4 @@
-<h2> Hi, I'm Anshu! <img src="https://media.giphy.com/media/ZFtvuSCT2fGVl34Wpi/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Anshu! 📣 </h2>
 
 <img align='right' src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="230">
 
