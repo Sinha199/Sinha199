@@ -9,12 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Sinha_199" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anshu1998/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="anshu1998/" height="30" width="40" /></a>
-<a href="https://kaggle.com/ethernext" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="ethernext" height="30" width="40" /></a>
-<a href="https://dribbble.com/ethernext" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="ethernext" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sdgg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sdgg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ethernext" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="ethernext" height="30" width="40" /></a>
+<a href="https://twitter.com/Sinha_199" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter-squared.png" alt="twitter" height="75" width="75" /></a>
+<a href="https://linkedin.com/in/anshu1998/" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="linkedin" height="75" width="75" /></a>
+<a href="https://dribbble.com/ethernext" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/dribbble.png" alt="dribble" height="75" width="75" /></a>
+<a href="https://instagram.com/ethernext" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="instagram" height="75" width="75" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
