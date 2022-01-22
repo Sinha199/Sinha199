@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anshu Sinha</h1>
-<h3 align="center">All about building in public and contributing more to community.</h3>
+<h3 align="center">All about building learning each day.</h3>
 
-- 🌱 I’m currently learning **Generative Art**
-
-- 👯 I’m looking to collaborate on **Open source projects**
+- 🌱 I’m currently learning **System design and architecture of various platforms and working technolgies asnd software"
 
 - 📫 How to reach me **anshusinha57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Sinha_199" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter-squared.png" alt="twitter" height="75" width="75" /></a>
+<a href="https://twitter.com/_anshusinha" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter-squared.png" alt="twitter" height="75" width="75" /></a>
 <a href="https://linkedin.com/in/anshu1998/" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="linkedin" height="75" width="75" /></a>
 </p>
 
