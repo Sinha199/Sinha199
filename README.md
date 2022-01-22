@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshu Sinha</h1>
 <h3 align="center">All about building learning each day.</h3>
 
-- 🌱 I’m currently learning **System design and architecture of various platforms and working technolgies asnd software"
+- 🌱 I’m currently learning **System design and architecture of various platforms and working technolgies asnd software**
 
 - 📫 How to reach me **anshusinha57@gmail.com**
 
