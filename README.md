@@ -11,8 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/Sinha_199" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter-squared.png" alt="twitter" height="75" width="75" /></a>
 <a href="https://linkedin.com/in/anshu1998/" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="linkedin" height="75" width="75" /></a>
-<a href="https://dribbble.com/ethernext" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/dribbble.png" alt="dribble" height="75" width="75" /></a>
-<a href="https://instagram.com/_anshusinha" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="instagram" height="75" width="75" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
